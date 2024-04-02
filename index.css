@@ -1,0 +1,186 @@
+body{
+    background-color: rgb(207, 219, 219);
+    border: 10px solid rgb(100, 28, 0);
+    background-image:url(./cuisine-1.jpg);
+    margin: 0%;
+    background-repeat: round;
+
+}
+.a1{
+    color: rgb(10, 10, 10);
+    border: 7px solid rgb(171,122,71);
+    height: 90px;
+    width: 280px;
+    font-style: italic;
+    font-size: x-large;
+    font-weight: 800px;
+    border-radius: 30px;
+    background-color: #e7cfb6;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.a2{
+    color: rgb(10, 10, 10);
+    border: 7px solid rgb(171,122,71);
+    height: 46px;
+    width: 420px;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: 800px;
+    border-radius: 20px;
+    background-color: #e7cfb6;
+    margin-left: -40px;
+    text-align: top;
+    margin-top: 30px;
+    padding-top:3px;
+}
+.a3{
+    color: rgb(10, 10, 10);
+    border: 7px solid rgb(171,122,71);
+    height: 100px;
+    width: 335px;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: 800px;
+    border-radius: 30px;
+    background-color: #e7cfb6;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+.p1{
+    display: flex;
+}
+.b1{
+    color: rgb(10, 10, 10);
+    border: 7px dashed rgb(171,122,71);
+    height: 777px;
+    width: 502px;
+    font-size: x-large;
+    background-color: #e7cfb6;
+    text-align: center;
+    margin-left: 600px ;
+    margin-top: 100px;
+}
+.double{
+display: flex;
+height: 800px;
+width: 100%;
+gap: 300px;
+padding-top: 100px;
+}
+.c1{
+    font-style: italic;
+    text-decoration: underline;
+    padding: 30px;
+    height: 326px;
+    width: 328px;
+    border: 5px solid rgb(171,122,71);
+    border-radius: 25pc;
+    text-align: center;
+    margin-top: -1500px;
+    background-color: rgb(126, 190, 190);
+    margin-left: 50px;
+    background-color: #e7cfb6;
+    
+}
+.menu{
+    color: black;
+    border: 5px solid rgb(171,122,71);
+    font-size: x-large;
+    font-weight: 800px;
+    border-radius: 80px;
+    text-align: center;
+    height: 120px;
+    width: 500px;
+    padding-left: 18px;
+    margin-left: 454px;
+    margin-top: 205px;
+    background-color: #e7cfb6;
+}
+.Starters{
+    color: black;
+    border: 5px solid rgb(226, 147, 63);
+    font-size: x-large;
+    font-weight: 800px;
+    border-radius: 50px;
+    height: 346px;
+    width: 329px;
+    margin-left: 56px;
+    text-align: center;
+    margin-top: 100px;
+    display: inline-block;
+    background-color: #e7cfb6;
+    
+}
+.south{
+    color:  black;
+    border: 5px solid rgb(226, 147, 63);
+    font-size: x-large;
+    font-weight: 800px;
+    border-radius: 50px;
+    height: 346px;
+    width: 329px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 100px;
+    display: inline-block;
+    background-color: #e7cfb6;
+}
+.indian{
+    color: black;
+    border: 5px solid rgb(226, 147, 63);
+    font-size: x-large;
+    font-weight: 800px;
+    border-radius: 50px;
+    height: 346px;
+    width: 329px;
+    text-align: center;
+    display: inline-block;
+    margin-left: 100px;
+    background-color: #e7cfb6;
+}
+.rice{
+    color:  black;
+    border: 5px solid rgb(226, 147, 63);
+    font-size: x-large;
+    font-weight: 800px;
+    border-radius: 50px;
+    height: 346px;
+    width: 329px;
+    text-align: center;
+    display: inline-block;
+    margin-top: 54px;
+    margin-left: 56px;
+    background-color: #e7cfb6;
+}
+.tandoori{
+    color:  black;
+    border: 5px solid rgb(226, 147, 63);
+    font-size: x-large;
+    font-weight: 800px;
+    border-radius: 50px;
+    height: 346px;
+    width: 329px;
+    text-align: center;
+    display: inline-block;
+    margin-top: 54px;
+    margin-left: 100px;
+    background-color: #e7cfb6;
+}
+.Beverages{
+    color:  black;
+    border: 5px solid rgb(226, 147, 63);
+    font-size: x-large;
+    font-weight: 800px;
+    border-radius: 50px;
+    height: 346px;
+    width: 329px;
+    text-align: center;
+    display: inline-block;
+    margin-top: 54px;
+    margin-left: 100px;
+    background-color: #e7cfb6;
+}
